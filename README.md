@@ -337,10 +337,9 @@ See the [LICENSE](LICENSE) file for full details.
 ## 📞 Support
 
 For questions, issues, or contributions:
-- 📧 Email: [support@mealrecommender.com](mailto:support@mealrecommender.com)
+- 📧 Email: [minhajps25@gmail.com](mailto:minhajps25@gmail.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/Minhaj225/Meal_Recommender/issues)
-- 📖 Documentation: [Project Wiki](https://github.com/Minhaj225/Meal_Recommender/wiki)
-
+-  ℹ LinkedIn: [minhajps](https://www.linkedin.com/in/minhajps/)
 ---
 
 🍽️ **Built with ❤️ using React, Node.js, Python, and AI/ML technologies**
