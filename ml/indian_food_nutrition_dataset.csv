@@ -1,0 +1,99 @@
+Food Name,Category,Serving Size,Calories (kcal),Protein (g),Carbohydrates (g),Fats (g),Dietary Preference
+Roti (Whole Wheat),Staple,1 piece (40g),120,3.5,22,1.5,Vegetarian
+Rice (White  Cooked),Staple,1 cup (150g),200,4,45,0.5,Vegetarian
+Dal Tadka,Lentil Dish,1 bowl (200g),180,9,20,8,Vegetarian
+Chole Masala,Main Dish,1 bowl (200g),220,8,30,9,Vegetarian
+Butter Chicken,Main Dish,1 bowl (200g),350,20,10,25,Non-Vegetarian
+Pani Puri,Snack,6 pieces (120g),150,3,25,5,Vegetarian
+Samosa,Snack,1 piece (100g),260,4,30,14,Vegetarian
+Idli,Breakfast,2 pieces (100g),140,4,28,1,Vegetarian
+Dosa (Plain),Breakfast,1 piece (100g),160,4,30,2,Vegetarian
+Masala Dosa,Breakfast,1 piece (150g),250,6,40,8,Vegetarian
+Poha,Breakfast,1 plate (150g),180,4,30,5,Vegetarian
+Paratha (Plain),Staple,1 piece (80g),220,5,30,9,Vegetarian
+Aloo Paratha,Breakfast,1 piece (120g),280,6,40,12,Vegetarian
+Chicken Biryani,Main Dish,1 plate (250g),400,20,50,15,Non-Vegetarian
+Vegetable Biryani,Main Dish,1 plate (250g),300,8,50,8,Vegetarian
+Pav Bhaji,Main Dish,1 plate (200g),250,6,35,10,Vegetarian
+Rajma Masala,Main Dish,1 bowl (200g),200,8,30,6,Vegetarian
+Palak Paneer,Main Dish,1 bowl (200g),250,10,15,18,Vegetarian
+Paneer Butter Masala,Main Dish,1 bowl (200g),300,12,15,22,Vegetarian
+Fish Curry (Rohu),Main Dish,1 bowl (200g),220,18,8,12,Non-Vegetarian
+Mutton Rogan Josh,Main Dish,1 bowl (200g),350,20,10,25,Non-Vegetarian
+Vada Pav,Snack,1 piece (120g),250,5,35,10,Vegetarian
+Dhokla,Snack,2 pieces (100g),150,5,25,4,Vegetarian
+Upma,Breakfast,1 plate (150g),200,5,35,5,Vegetarian
+Bhel Puri,Snack,1 plate (100g),180,4,30,6,Vegetarian
+Tandoori Chicken,Main Dish,1 piece (100g),200,20,2,12,Non-Vegetarian
+Chicken Tikka,Main Dish,4 pieces (120g),220,22,5,12,Non-Vegetarian
+Vegetable Pulao,Main Dish,1 plate (200g),250,6,40,8,Vegetarian
+Naan,Staple,1 piece (100g),300,7,50,8,Vegetarian
+Butter Naan,Staple,1 piece (100g),350,7,50,12,Vegetarian
+Sambar,Lentil Dish,1 bowl (200g),150,6,20,5,Vegetarian
+Rasam,Soup,1 bowl (200g),80,2,15,2,Vegetarian
+Aloo Gobi,Main Dish,1 bowl (200g),180,4,25,8,Vegetarian
+Baingan Bharta,Main Dish,1 bowl (200g),150,3,20,7,Vegetarian
+Prawn Curry,Main Dish,1 bowl (200g),250,18,10,15,Non-Vegetarian
+Egg Curry,Main Dish,1 bowl (200g),200,12,15,10,Non-Vegetarian
+Chana Chaat,Snack,1 plate (150g),200,7,30,6,Vegetarian
+Medu Vada,Breakfast,2 pieces (100g),180,5,25,8,Vegetarian
+Misal Pav,Main Dish,1 plate (200g),250,8,35,10,Vegetarian
+Kheer,Dessert,1 bowl (150g),200,5,30,8,Vegetarian
+Gulab Jamun,Dessert,2 pieces (100g),300,4,50,12,Vegetarian
+Jalebi,Dessert,2 pieces (80g),250,3,45,10,Vegetarian
+Lassi,Beverage,1 glass (200ml),150,4,20,6,Vegetarian
+Masala Chai,Beverage,1 cup (150ml),100,2,15,4,Vegetarian
+Coconut Chutney,Condiment,2 tbsp (30g),60,1,5,5,Vegetarian
+Mint Chutney,Condiment,2 tbsp (30g),40,1,5,2,Vegetarian
+Tamarind Chutney,Condiment,2 tbsp (30g),60,0.5,15,0.5,Vegetarian
+Biryani Masala,Spice Mix,1 tsp (5g),15,0.5,3,0.5,Vegetarian
+Garam Masala,Spice Mix,1 tsp (5g),10,0.5,2,0.5,Vegetarian
+Mango Pickle,Condiment,1 tbsp (15g),30,0.5,5,2,Vegetarian
+Papad,Snack,1 piece (15g),50,2,6,2,Vegetarian
+Raita,Side Dish,1 bowl (100g),80,3,10,3,Vegetarian
+Vegetable Korma,Main Dish,1 bowl (200g),220,6,25,12,Vegetarian
+Chicken Korma,Main Dish,1 bowl (200g),300,18,15,18,Non-Vegetarian
+Bhindi Masala,Main Dish,1 bowl (200g),180,4,20,10,Vegetarian
+Dahi Vada,Snack,2 pieces (150g),200,6,25,10,Vegetarian
+Pongal,Breakfast,1 plate (200g),220,6,35,7,Vegetarian
+Kesari,Dessert,1 bowl (100g),200,3,30,8,Vegetarian
+Sev Puri,Snack,6 pieces (120g),180,4,25,8,Vegetarian
+Chicken 65,Snack,4 pieces (120g),250,18,10,15,Non-Vegetarian
+Mysore Pak,Dessert,1 piece (50g),200,3,25,12,Vegetarian
+Puri,Staple,2 pieces (80g),200,4,25,10,Vegetarian
+Aloo Tikki,Snack,2 pieces (100g),200,4,30,8,Vegetarian
+Methi Thepla,Snack,2 pieces (100g),220,5,30,10,Vegetarian
+Kadhi,Lentil Dish,1 bowl (200g),150,5,20,6,Vegetarian
+Pakora,Snack,4 pieces (100g),200,4,25,10,Vegetarian
+Vegetable Samosa,Snack,1 piece (100g),250,4,30,12,Vegetarian
+Mutton Biryani,Main Dish,1 plate (250g),420,22,50,18,Non-Vegetarian
+Fish Fry (Pomfret),Main Dish,1 piece (100g),220,18,5,14,Non-Vegetarian
+Chicken Curry,Main Dish,1 bowl (200g),280,20,10,18,Non-Vegetarian
+Palak Dal,Lentil Dish,1 bowl (200g),180,8,20,8,Vegetarian
+Gajar Halwa,Dessert,1 bowl (100g),250,4,35,12,Vegetarian
+Rasgulla,Dessert,2 pieces (100g),200,5,35,6,Vegetarian
+Chole Bhature,Main Dish,1 plate (200g),400,10,50,20,Vegetarian
+Uttapam,Breakfast,1 piece (150g),200,5,35,6,Vegetarian
+Kachori,Snack,1 piece (80g),220,4,25,12,Vegetarian
+Vegetable Fried Rice,Main Dish,1 plate (200g),220,5,40,6,Vegetarian
+Egg Bhurji,Main Dish,1 plate (150g),200,12,10,12,Non-Vegetarian
+Paneer Tikka,Main Dish,4 pieces (120g),250,12,10,18,Vegetarian
+Shahi Paneer,Main Dish,1 bowl (200g),300,12,15,20,Vegetarian
+Mutton Curry,Main Dish,1 bowl (200g),350,20,10,25,Non-Vegetarian
+Pesarattu,Breakfast,1 piece (150g),200,6,30,7,Vegetarian
+Sabudana Khichdi,Breakfast,1 plate (150g),250,3,40,10,Vegetarian
+Aloo Matar,Main Dish,1 bowl (200g),180,5,25,8,Vegetarian
+Keema Pav,Main Dish,1 plate (200g),350,18,35,15,Non-Vegetarian
+Rava Idli,Breakfast,2 pieces (100g),150,4,25,4,Vegetarian
+Barfi,Dessert,1 piece (50g),200,4,25,10,Vegetarian
+Veg Hakka Noodles,Main Dish,1 plate (200g),250,6,40,8,Vegetarian
+Chicken Fried Rice,Main Dish,1 plate (200g),300,15,40,10,Non-Vegetarian
+Tandoori Roti,Staple,1 piece (50g),150,4,25,2,Vegetarian
+Mushroom Masala,Main Dish,1 bowl (200g),180,5,20,10,Vegetarian
+Lauki Sabzi,Main Dish,1 bowl (200g),120,3,15,5,Vegetarian
+Prawn Fry,Main Dish,4 pieces (120g),220,18,5,14,Non-Vegetarian
+Seviyan Kheer,Dessert,1 bowl (150g),200,5,30,8,Vegetarian
+Aloo Puri,Main Dish,1 plate (200g),300,6,40,12,Vegetarian
+Egg Paratha,Breakfast,1 piece (120g),250,8,30,12,Non-Vegetarian
+Vegetable Upma,Breakfast,1 plate (150g),200,5,35,6,Vegetarian
+Matar Paneer,Main Dish,1 bowl (200g),250,12,15,15,Vegetarian
