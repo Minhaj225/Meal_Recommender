@@ -1,0 +1,1 @@
+web: python create_model.py && gunicorn --bind 0.0.0.0:$PORT --workers 1 api:app
