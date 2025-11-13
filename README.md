@@ -18,7 +18,7 @@ A comprehensive full-stack AI-powered meal recommendation platform that provides
 ```
 
 ## Live Deployment
-
+ Note: The backend is down and live deployed version does not work properly , run on localhost to use the web-app.
 - **Frontend**: [https://meal-recommender-nine.vercel.app](https://meal-recommender-nine.vercel.app)
 - **Backend API**: [https://meal-recommender-backend.vercel.app](https://meal-recommender-backend.vercel.app)
 - **ML API**: [https://mealrecommender-production.up.railway.app](https://mealrecommender-production.up.railway.app)
